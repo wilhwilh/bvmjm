@@ -66,6 +66,8 @@ class PagesController extends AppController {
 	}
 	
 	function display() {
+		//$this->layout = "nueva";
+		
 		$path = func_get_args();
 
 		$count = count($path);
@@ -85,5 +87,9 @@ class PagesController extends AppController {
 		}
 		$this->set(compact('page', 'subpage', 'title_for_layout'));
 		$this->render(implode('/', $path));
+	}
+	
+	function nueva() {
+		
 	}
 }
