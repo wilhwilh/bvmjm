@@ -1,0 +1,31 @@
+body {
+	background: #E8DED4;
+}
+
+p {
+	color: #6C3F30;
+}
+
+.navbar {
+	background: #55473C;
+	border: none;
+	border-radius: 0px;
+	margin-bottom: 0px;
+}
+
+.btn-primary{
+	border-radius: 0px;
+	background: #55473C;
+	border-color: #55473C;
+}
+
+.btn-primary:hover{
+	border-radius: 0px;
+	border-color: #E8DED4;
+	background: #E8DED4;
+	color: #000;
+}
+
+a {
+	color: #55473C;
+}
