@@ -45,6 +45,11 @@
 			<option value="13">Imágenes fijas bidimensionales (parte de libro)</option>
 			<option value="14">Imágenes fijas bidimensionales (parte de revista)</option>
 		</optgroup>
+		<optgroup label="TRABAJOS ACADÉMICOS">
+			<option value="15">Trabajos de Grado</option>
+			<option value="16">Trabajos de Ascenso</option>
+			<option value="17">Documentos Académicos</option>
+		</optgroup>
 	</select>
 </div>
 

@@ -150,7 +150,7 @@ document.onclick = mclose;
 	                    <a href="<?php echo $this->base; ?>/">M&uacute;sica Manuscrita</a>
 	                    <a href="<?php echo $this->base; ?>/">M&uacute;sica Impresa</a>
 	                    <a href="<?php echo $this->base; ?>/">Iconograf&iacute;a</a>
-	                    <a href="<?php echo $this->base; ?>/">Trabajos Acad&eacute;micos</a>
+	                    <a href="<?php echo $this->base; ?>/academic_papers">Trabajos Acad&eacute;micos</a>
                     </div>
                 </li>
                 <li style="width: 16%; margin-right: 0px;"><a href="<?php echo $this->base; ?>" style="cursor: default;" onclick="return false;"></a></li>
@@ -171,7 +171,7 @@ document.onclick = mclose;
 	                    <a href="<?php echo $this->base; ?>/" title="Búsqueda Avanzada para el Módulo de Música Manuscrita">M&uacute;sica Manuscrita</a>
 	                    <a href="<?php echo $this->base; ?>/" title="Búsqueda Avanzada para el Módulo de Música Impresa">M&uacute;sica Impresa</a>
 	                    <a href="<?php echo $this->base; ?>/" title="Búsqueda Avanzada para el Módulo de Iconografía Musical Venezolana">Iconograf&iacute;a</a>
-	                    <a href="<?php echo $this->base; ?>/" title="Búsqueda Avanzada para el Módulo de Trabajos Académicos">Trabajos Acad&eacute;micos</a>
+	                    <a href="<?php echo $this->base; ?>/academic_papers/advanced_search" title="Búsqueda Avanzada para el Módulo de Trabajos Académicos">Trabajos Acad&eacute;micos</a>
                     </div>
                 </li>
                 <!--
